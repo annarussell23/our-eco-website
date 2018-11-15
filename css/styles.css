@@ -1,29 +1,30 @@
+body {background-color: #F0FFF0;}
+
 h1 {
-  color: green;
-  font-size: 24px;
-  font-weight: bold;
-  font-family: 'IBM Plex Sans', sans-serif;
+  color: #008B8B;
+  font-size: 40px;
+  font-family: 'Alegreya Sans SC', sans-serif;
   text-align: center;
 }
 
 p {
   colour: blue;
-  font-size: 15px;
-  font-family: 'IBM Plex Sans';
+  font-size: 20px;
+  font-family: 'Alegreya Sans SC', sans-serif;
   font-weight: bold;
   text-align: center;
 }
 
 ul1 {
-      padding: 10px;
-      background: grey;
-      font-family: 'IBM Plex Sans';
+      padding: 15px;
+      background: #F8F8FF;
+      font-family: 'Alegreya Sans SC', sans-serif;
       color: black;
     }
     li {
       display: inline;
       padding: 0px 10px 0px 10px;
-      font-family: 'IBM Plex Sans';
+      font-family: 'Alegreya Sans SC', sans-serif;
       color: black;
 
     }
