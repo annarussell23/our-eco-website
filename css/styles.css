@@ -1,4 +1,6 @@
-body {background-color: #F0FFF0;}
+body {
+   background-color: #F0FFF0;
+ }
 
 h1 {
   color: #008B8B;
@@ -8,7 +10,7 @@ h1 {
 }
 
 p {
-  colour: blue;
+  color: black;
   font-size: 20px;
   font-family: 'Alegreya Sans SC', sans-serif;
   font-weight: bold;
@@ -21,7 +23,9 @@ ul1 {
       font-family: 'Alegreya Sans SC', sans-serif;
       color: black;
     }
-    li {
+
+li {
+      font-size: 20px;
       display: inline;
       padding: 0px 10px 0px 10px;
       font-family: 'Alegreya Sans SC', sans-serif;
