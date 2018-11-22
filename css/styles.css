@@ -32,6 +32,7 @@ p {
 }
 
 p1 {
+  margin: 20px 20px 20px 20px;
   color: #008B8B;
   font-size: 15px;
   font-family: 'Century Gothic', sans-serif;
@@ -40,8 +41,8 @@ p1 {
   height: 20px;
   background-size: cover;
   position: relative;
-  margin: 20px 0 0 0;
   border-radius: 10px;
+
 }
 
 ul {
